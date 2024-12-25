@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on building Dono-it, a donation platform for creators and their supporters.<br>I'm looking to collaborate on future projects as much as possible.<br>I'm looking for help with improving my logic building skills.<br>I'm currently learning NextJS, prisma and PostgreSQL.<br>Ask me about React, Tailwind, JS, HTML, CSS, NextJS,prisma<br>
+🔭 I’m currently working on building Dono-it, a donation platform for creators and their supporters.<br>👯 I’m looking to collaborate on future projects as much as possible.<br>🤝 I’m looking for help with improving my logic building skills.<br>🌱 I’m currently learning NextJS, prisma and PostgreSQL.<br>💬 Ask me about React, Tailwind, JS, HTML, CSS, NextJS,prisma
 
 
 ## 🌐 Socials:
