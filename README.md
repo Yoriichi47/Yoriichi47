@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Roomiee - A room booking platform, with fully functional admin controls and payment portal.<br>👯 I’m looking to collaborate on future projects as much as possible.<br>🤝 I’m looking for help with improving my logic building skills.<br>🌱 I’m currently learning NextJS, prisma and PostgreSQL.<br>💬 Ask me about React, Tailwind, JS, HTML, CSS, NextJS, and prisma
+🔭 I’m currently working on Roomiee - A room booking platform, with fully functional admin controls and payment portal.<br>👯 I’m looking to collaborate on future projects as much as possible.<br>🤝 I’m looking for help with improving my logic building skills.<br>🌱 I’m currently learning NextJS, typescript, prisma and PostgreSQL.<br>💬 Ask me about React, Tailwind, JS, HTML, CSS, NextJS, and prisma
 
 
 ## 🌐 Socials:
